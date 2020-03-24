@@ -1,6 +1,6 @@
 ## Node.js Next.js Graphql Typescript Boilerplate App
 
-Install all dependencies in server and client
+Install all dependencies in the server and client
 
 ```bash
 npm install
