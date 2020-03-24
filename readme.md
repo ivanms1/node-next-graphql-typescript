@@ -21,3 +21,5 @@ npm run start:app
 # or
 yarn start:app
 ```
+
+Visit `http://localhost:3000/`
